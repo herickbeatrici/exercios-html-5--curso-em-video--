@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>paragrafos</title>
+</head>
+<body>
+    <h1>paragrafos e quebra linhas</h1>
+    <hr>
+    <p>aqui dentro voce pode escrver
+        qualquer coisa, desde que esteja dentro 
+        das tags &lt;p&gt; e &lt;/p&gt;
+    </p>
+
+    <p>se voce quiser quebrar a linha
+         em um lugar especifico <br> como este, 
+         basta utilizar a tag &lt;br&gt;
+    </p>
+
+    <p>vamos adicionar alguns simbulos:
+        &reg;
+        &copy;
+        &trade;
+        &euro;
+        &empty;
+        &sum;
+        &Delta;
+        &larr;
+        &uarr;
+    </p>
+
+    <p>vamos adicior alguns emojis:
+        &#x1F976;
+        &#x231A;
+    </p>
+</body>
+</html>
