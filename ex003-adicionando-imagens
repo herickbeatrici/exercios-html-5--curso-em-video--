@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>teste com imagens</title>
+</head>
+<body>
+
+    <h1>testando carga de imagens</h1>
+    <hr>
+    <p>aqui voce vai ver uma imagem que esta na mesma pasta</p>
+    <img src="logo-the-last.png" alt="Logo the last of us">
+    <hr>
+    <p>voce tambem pode adicior imagens que estao em sub-pastas</p>
+    <img src="imagens/the-last-of-us.jpg" alt="Foto capa serie the last of us">
+    <hr>
+    <p>tambem podemos adicior imagens de links externos</p>
+    <img src="https://www.omnycontent.com/d/programs/d83f52e4-2455-47f4-982e-ab790120b954/bbdd49f7-571c-45d3-92f5-af6d014df8aa/image.jpg?t=1671831696&size=small"
+    alt="Capa the lest direto de link">
+
+</body>     
+</html>   
